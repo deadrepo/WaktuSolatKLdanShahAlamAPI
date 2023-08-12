@@ -1,9 +1,9 @@
 # WaktuSolatKLdanShahAlamAPI
 [WaktuSolatKLdanShahAlamAPI] is a Waktu Solat API for Wilayah Persekutuan dan Shah Alam using Flask
 
-Notes*
 
 wly01 = Wilayah Persekutuan
+
 sgr01 = Shah Alam
 
 Sample Output

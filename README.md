@@ -4,7 +4,6 @@
 Notes*
 
 sgr01 = Shah Alam
-wly01 = Wilayah Persekutuan
 
 Sample Output
 ```
